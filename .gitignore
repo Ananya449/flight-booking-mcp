@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.mcp.json
+.env
+.env.*
+!.env.example
+
+.vscode/
+PRD Flight Booking MCP Server.pdf
